@@ -1,0 +1,4 @@
+.scrollable-container {
+    max-height: 480px;
+    overflow: auto;
+}
